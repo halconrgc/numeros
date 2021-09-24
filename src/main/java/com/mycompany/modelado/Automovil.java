@@ -186,5 +186,7 @@ public class Automovil {
         }else{
             System.out.println("Error, el auto esta lleno, no cabe otro pasajero");
         }
+     //otro
     }
+    
 }
